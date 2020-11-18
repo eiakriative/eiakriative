@@ -11,8 +11,6 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/?locale=en_US)](https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/?locale=en_US)
 
-<br /><br /><br />
-
 ### PORTUGUESE
 
 Olá! Meu nome é André Luiz Homan Kanashiro do Brasil (🇧🇷). Eu tenho buscado conhecimento com Node.JS, Java, C#, C++, C e Flutter. Eu uso meu tempo livre para jogar algum jogo, assistir um filme ou serie ou escutar musica.
