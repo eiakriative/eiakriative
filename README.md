@@ -4,13 +4,14 @@ Hi there! My name is André Luiz Homan Kanashiro from Brazil (🇧🇷). I've be
 
 <br /><br /><br />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamkanashirolandre&show_icons=true" alt="iamkanashirolandre"/>
-</p>
+![image](https://github.com/iamkanashirolandre/iamkanashirolandre/blob/main/dino.gif)
+
 
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/?locale=en_US)](https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/?locale=en_US)
+
+<br /><br /><br />
 
 ### PORTUGUESE
 
