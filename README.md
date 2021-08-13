@@ -6,9 +6,9 @@ Olá! Meu nome é André Luiz Homan Kanashiro do Brasil (🇧🇷). Eu tenho bus
 ![image](https://github.com/iamkanashirolandre/iamkanashirolandre/blob/main/dino.gif)
 
 
-Would you like to find me?
+Gostaria de me encontrar?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/?locale=en_US)](https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)](https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)
 
 <br /><br /><br />
 
@@ -16,6 +16,4 @@ Would you like to find me?
 <img src="https://github-readme-stats.vercel.app/api?username=iamkanashirolandre&show_icons=true" alt="iamkanashirolandre"/>
 </p>
 
-Gostaria de me encontrar?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)](https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)
