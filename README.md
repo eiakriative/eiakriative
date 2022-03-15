@@ -1,6 +1,6 @@
 ### QUEM SOU?
 
-Olá! Meu nome é André Luiz Homan Kanashiro do Brasil (🇧🇷). Eu tenho buscado conhecimento com Node.JS, Java, C#, C++, C e Flutter. Eu uso meu tempo livre para assistir um filme ou serie ou escutar musica.
+Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscado conhecimento com Node.JS, Java, C#, C++, C e Flutter. Eu uso meu tempo livre para assistir um filme ou serie ou escutar musica.
 <br /><br /><br />
 
 ![image](https://github.com/iamkanashirolandre/iamkanashirolandre/blob/main/dino.gif)
