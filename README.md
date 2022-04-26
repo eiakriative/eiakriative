@@ -24,4 +24,9 @@ Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscad
 <img height="180em" src="https://github-readme-stats.vercel.app/api?itsandrekanas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+### Infos
+  
+  ![Snake animation](https://github.com/itsandrekanas/itsandrekanas/blob/output/github-contribution-grid-snake.svg)
+
+
 
