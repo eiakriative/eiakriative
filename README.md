@@ -1,11 +1,15 @@
 ### QUEM SOU?
 
-Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscado conhecimento como Node.JS, Java, C#, C++, C e Flutter. Eu uso meu tempo livre para assistir um filme ou serie ou escutar musica.
+Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscado conhecimento como Node.JS, Java, C#, e Dart/Flutter. Eu uso meu tempo livre para assistir um filme ou serie ou escutar musica.
 <br /><br /><br />
 
-### Linguagens:
+### Linguagens e tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> 
 
 Gostaria de me encontrar?
 
