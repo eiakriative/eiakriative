@@ -16,7 +16,7 @@ Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscad
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)](https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)
 
-### Infos
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 
 <div>
 <a href="https://github.com/itsandrekanas">
