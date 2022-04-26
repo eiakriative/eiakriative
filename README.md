@@ -3,8 +3,9 @@
 Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscado conhecimento como Node.JS, Java, C#, C++, C e Flutter. Eu uso meu tempo livre para assistir um filme ou serie ou escutar musica.
 <br /><br /><br />
 
-![image](https://github.com/iamkanashirolandre/iamkanashirolandre/blob/main/dino.gif)
+### Linguagens:
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
 
 Gostaria de me encontrar?
 
