@@ -16,15 +16,4 @@ Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscad
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)](https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)
 
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-</p>
-
-<div>
-<a href="https://github.com/itsandrekanas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?itsandrekanas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?itsandrekanas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
 
