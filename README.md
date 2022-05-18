@@ -1,4 +1,4 @@
-![Snake animation](  https://github.com/itsandrekanas/itsandrekanas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/itsandrekanas/itsandrekanas/blob/main/github-contribution-grid-snake.svg)
 
 ### QUEM SOU?
 
