@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/JhonatanHerman/JhonatanHerman/blob/output/github-contribution-grid-snake.svg)
+
 ### QUEM SOU?
 
 Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscado conhecimento como Node.JS, Java, C#, e Dart/Flutter. Eu uso meu tempo livre para assistir um filme ou serie ou escutar musica.
