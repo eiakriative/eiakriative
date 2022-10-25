@@ -12,4 +12,9 @@ Olá! Meu nome é André Luiz H. Kanashiro do Brasil (🇧🇷). Eu tenho buscad
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)](https://www.linkedin.com/in/andr%C3%A9-luiz-h-kanashiro-948593185/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/andr%c3%a9-luiz-h-kanashiro-948593185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9-luiz-h-kanashiro-948593185/" height="30" width="40" /></a>
+</p>
+
 
